@@ -1,5 +1,5 @@
 # CMATD
-Composite Modular Adaptive Technological Devices!
+Composite Modular Adapting Technological Devices!
 
 Welcome to the world of Composite Modular Adaptive Technological Devices!
 This is an MC mod for version 1.21.1! It adds machines and generators (some of which aren't commonly found in mods) to help you control and manipulate your items and your world!
